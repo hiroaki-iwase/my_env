@@ -47,3 +47,9 @@ bind Q quit
 
 # Reload .screenrc
 bind R source ~/.screenrc
+
+# 点滅オフ
+vbell off
+
+# 分割したウィンドウを閉じる
+# bind X
